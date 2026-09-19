@@ -1,7 +1,7 @@
 {
-  "version": "v2.5IW",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IW/Total_Tommy_v2.5IW_DIRECT_DETACHED_MODULE_RESTART_CORRECTED.zip",
-  "sha256": "3d186c587987e32e88388b895647635178ab354df6b14e67d444837ad5c21f84",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IW",
-  "notes": "Total Tommy v2.5IW update."
+  "version": "v2.5IX",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IX/Total_Tommy_v2.5IX_DIRECT_POPEN_MODULE_LAUNCH_FIX.zip",
+  "sha256": "ad27ac0d650297820fefa27aacc64d3b5b0dbbf144b7258f8330444723f572d5",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IX",
+  "notes": "Total Tommy v2.5IX update."
 }
