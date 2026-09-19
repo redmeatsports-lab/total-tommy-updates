@@ -1,7 +1,7 @@
 {
-  "version": "v2.5IS",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IS/Total_Tommy_v2.5IS_WINDOWS_LOCK_AND_FULL_RESTART_FIX.zip",
-  "sha256": "bf635a7fc0d768f94560c832f35f57281af484b2d83dfcadea0400b7a37672a8",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IS",
-  "notes": "Total Tommy v2.5IS update."
+  "version": "v2.5IT",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IT/Total_Tommy_v2.5IT_INDEPENDENT_UPDATER_HANDOFF_FIX.zip",
+  "sha256": "dd04a4a4e3bc65045b4b9276179b7b0a9de645ee7af17fec21b4ef31c5a0fcb5",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IT",
+  "notes": "Total Tommy v2.5IT update."
 }
