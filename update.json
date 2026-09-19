@@ -1,7 +1,7 @@
 {
-  "version": "v2.5IM",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IM/Total_Tommy_v2.5IM_REMOTE_UPDATE_VISUAL_FIX.zip",
-  "sha256": "150d283b56eb914ffa8b2520385fd9444db97ccb30ee7a77205bfa1212f9ed4e",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IM",
-  "notes": "New Fill in the Blank master and improved app text contrast."
+  "version": "v2.5IN",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IN/Total_Tommy_v2.5IN_RESPONSIVE_FILL_RESTART_FIX.zip",
+  "sha256": "d458324ab870a95aa55998974213202536ff4d25ae37d24e286e6d47c478261a",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IN",
+  "notes": "Responsive Fill in the Blank text and improved post-update restart readiness."
 }
