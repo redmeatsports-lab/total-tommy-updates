@@ -1,0 +1,7 @@
+{
+  "version": "v2.5II",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5II/Total_Tommy_v2.5II_REMOTE_UPDATE_TEST.zip",
+  "sha256": "fd2cd0a8efff167ddc7300fac5c40c390f0148616d5dee48cfce1f10f7940179",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5II",
+  "notes": "Controlled remote update test from v2.5IH to v2.5II."
+}
