@@ -1,7 +1,7 @@
 {
-  "version": "v2.5IP",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IP/Total_Tommy_v2.5IP_UI_CONTRAST_FIX.zip",
-  "sha256": "f466f1390282eee44e65267a430e868d372cef74dea5f19020660ce405fc9d03",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IP",
-  "notes": "Improved UI contrast for Software Updates and persistent navigation controls."
+  "version": "v2.5IQ",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IQ/Total_Tommy_v2.5IQ_ONE_COMMAND_PUBLISHER_FULL_RESTART_FIX.zip",
+  "sha256": "1988d95d23cac8e53ddc1bd02c283b852bd07019ad085489f8d21d6cf95f8f67",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IQ",
+  "notes": "Adds one-command update publishing and full post-update restart/readiness checking for all Total Tommy modules."
 }
