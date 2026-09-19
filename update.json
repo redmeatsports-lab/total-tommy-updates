@@ -1,7 +1,7 @@
 {
-  "version": "v2.5IQ",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IQ/Total_Tommy_v2.5IQ_ONE_COMMAND_PUBLISHER_FULL_RESTART_FIX.zip",
-  "sha256": "1988d95d23cac8e53ddc1bd02c283b852bd07019ad085489f8d21d6cf95f8f67",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IQ",
-  "notes": "Adds one-command update publishing and full post-update restart/readiness checking for all Total Tommy modules."
+  "version": "v2.5IR",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IR/Total_Tommy_v2.5IR_SEQUENTIAL_MODULE_RESTART_FIX.zip",
+  "sha256": "2f39a43d96bbfb8d7885a71d0119ccc2f66ce3450a97a10da39d69a7f4f7cb78",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IR",
+  "notes": "Total Tommy v2.5IR update."
 }
