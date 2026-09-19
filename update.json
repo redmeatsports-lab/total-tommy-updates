@@ -1,7 +1,7 @@
 {
-  "version": "v2.5IU",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IU/Total_Tommy_v2.5IU_START_PROCESS_HANDOFF_FIX.zip",
-  "sha256": "7b4f739a6153f271921cb79cb1d1e007a5ef97fd7a046f22514db4f3959e6c00",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IU",
-  "notes": "Total Tommy v2.5IU update."
+  "version": "v2.5IV",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IV/Total_Tommy_v2.5IV_SEQUENTIAL_START_PROCESS_MODULE_RESTART.zip",
+  "sha256": "117e20e1bb16175d61cd5863a235a5144439ebe81d30c7de645555925856df7b",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IV",
+  "notes": "Total Tommy v2.5IV update."
 }
