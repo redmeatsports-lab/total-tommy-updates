@@ -1,7 +1,7 @@
 {
-  "version": "v2.5JB",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5JB/Total_Tommy_v2.5JB_IN_APP_UPDATE_PUBLISHER.zip",
-  "sha256": "cd824af2c2d7974c6936d344f83f238c1765c0429054f8f02ea30d754ca95a15",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5JB",
-  "notes": "Total Tommy v2.5JB update."
+  "version": "v2.5JC",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5JC/Total_Tommy_v2.5JC_PUBLISHER_SCAN_FIX.zip",
+  "sha256": "d580ed028b88d42e029d0e9d3ee60327ddcaa3e90bb921bcefb4e6357909f84b",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5JC",
+  "notes": "Total Tommy v2.5JC update."
 }
