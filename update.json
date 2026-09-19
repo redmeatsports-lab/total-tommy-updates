@@ -1,7 +1,7 @@
 {
-  "version": "v2.5IN",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IN/Total_Tommy_v2.5IN_RESPONSIVE_FILL_RESTART_FIX.zip",
-  "sha256": "d458324ab870a95aa55998974213202536ff4d25ae37d24e286e6d47c478261a",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IN",
-  "notes": "Responsive Fill in the Blank text and improved post-update restart readiness."
+  "version": "v2.5IP",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5IP/Total_Tommy_v2.5IP_UI_CONTRAST_FIX.zip",
+  "sha256": "f466f1390282eee44e65267a430e868d372cef74dea5f19020660ce405fc9d03",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5IP",
+  "notes": "Improved UI contrast for Software Updates and persistent navigation controls."
 }
