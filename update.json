@@ -1,7 +1,7 @@
 {
-  "version": "v2.5KE",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5KE/Total_Tommy_v2.5KE_WINDOWS_UPDATE_LOCK_FIX.zip",
-  "sha256": "f8ab9de977bb7ee1445e76221ed23a15e501a584ca3bd262cd9f1e09a4aa6b69",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5KE",
-  "notes": "Total Tommy v2.5KE update."
+  "version": "v2.5KF",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5KF/Total_Tommy_v2.5KF_LOCKED_STATIC_MASTERS.zip",
+  "sha256": "fba60b405046d068528591eca274074e4e095c1c925f002b07246067677bf65e",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5KF",
+  "notes": "Total Tommy v2.5KF update."
 }
