@@ -1,7 +1,7 @@
 {
-  "version": "v2.5KC",
-  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5KC/Total_Tommy_v2.5KC_CORRECTED_STATIC_MASTER_ROLLUP.zip",
-  "sha256": "b63b9429c31f815f14f5ef9f2d3ca12e1b84f996f7c5590d14fbd33954cbdaa9",
-  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5KC",
-  "notes": "Total Tommy v2.5KC update."
+  "version": "v2.5KD",
+  "package_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/download/v2.5KD/Total_Tommy_v2.5KD_FRESH_UPDATE_CHECKS.zip",
+  "sha256": "013f4359d5444bcccca86c75e856f82cbde21add852458c33c3f675a507806f7",
+  "email_download_url": "https://github.com/redmeatsports-lab/total-tommy-updates/releases/tag/v2.5KD",
+  "notes": "Total Tommy v2.5KD update."
 }
